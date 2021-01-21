@@ -105,7 +105,7 @@ function megaFriend(array) {
         return ans;
     }
 }
-// console.log(megaFriend(["","","",""]));
+// console.log(megaFriend(["kacff ksfsfs","fsfsdf sdfsdfd","dsf dfds","fdsfdsf"]));
 
 // give me a star in github please.
 
