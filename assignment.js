@@ -107,4 +107,6 @@ function megaFriend(array) {
 }
 // console.log(megaFriend(["","","",""]));
 
+// give me a star in github please.
+
 // -------------------->END---------------------------->
