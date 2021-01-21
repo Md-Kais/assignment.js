@@ -58,6 +58,7 @@ function budgetCalculator(watch, phone, laptop) {
 
 function hotelCost(day) {
     var amount = 0;
+    //invalid
     if (day < 0) {
         return "Day can't be negative, SIR!"
     }
@@ -80,7 +81,7 @@ function hotelCost(day) {
 
     }
 }
-// console.log(hotelCost(21));
+//console.log(hotelCost(21));
 
 //megaFriend--------------------------------------------------->
 
@@ -98,6 +99,7 @@ function megaFriend(array) {
             ans = friend;
         }
     }
+    //invalid
     if (len === 0) {
         return "There is no input or you have no friend or invalid input(numebers) or empty strings. Go and Find Some or give us correct input.";
     }
